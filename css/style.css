@@ -1,0 +1,30 @@
+.title {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.description {
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.images {
+  width: 100%;
+  max-width: 900px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#sub-title1 {
+  background-color: aqua;
+}
+
+#sub-title2 {
+  background-color: blueviolet;
+}
